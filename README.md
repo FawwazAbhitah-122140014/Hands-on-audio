@@ -27,8 +27,8 @@ Hands-on_Multimedia/
 │
 └── Worksheets 3/   
     ├── data/
-    └── Exercise_Audio.ipynb
-    └── 122140014_HandsOn.pdf
+    └── Hands-On Audio.ipynb
+    └── 122140014.pdf
 ```
 
 ---
